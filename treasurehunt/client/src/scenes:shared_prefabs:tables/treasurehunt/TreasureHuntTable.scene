@@ -1,0 +1,106 @@
+{
+    "id": "4c5b24d2-1025-43da-af6a-d478cffea2e5",
+    "sceneType": "PREFAB",
+    "settings": {
+        "compilerInsertSpaces": true,
+        "exportClass": true,
+        "preloadMethodName": "",
+        "preloadPackFiles": [],
+        "createMethodName": "",
+        "borderWidth": 1520,
+        "borderHeight": 960
+    },
+    "displayList": [
+        {
+            "type": "Container",
+            "id": "3a598b0a-a4d3-491b-b577-c989e03abe98",
+            "label": "container_1",
+            "x": 563.3092476690642,
+            "y": 334.5207790847662,
+            "list": [
+                {
+                    "prefabId": "3d402c83-0ef8-4993-bf56-3e076074ec9e",
+                    "id": "c2304ed8-c59c-417c-9bbb-d7c1d0c2e6de",
+                    "unlock": [
+                        "x",
+                        "y"
+                    ],
+                    "label": "done2",
+                    "x": 14.690752330935766,
+                    "y": 29.479220915233782
+                },
+                {
+                    "type": "Image",
+                    "id": "01d592e8-814c-4071-a28c-12979e6083cc",
+                    "label": "game",
+                    "scope": "CLASS",
+                    "components": [
+                        "Button",
+                        "MoveTo"
+                    ],
+                    "Button.spriteName": "game",
+                    "Button.activeFrame": false,
+                    "MoveTo.x": "this.x",
+                    "MoveTo.y": "this.y",
+                    "texture": {
+                        "key": "book",
+                        "frame": "game"
+                    },
+                    "x": -49,
+                    "y": -17,
+                    "flipX": true
+                },
+                {
+                    "prefabId": "3d402c83-0ef8-4993-bf56-3e076074ec9e",
+                    "id": "8abf06d0-7957-443e-bf79-f0c787d9325b",
+                    "unlock": [
+                        "x",
+                        "y"
+                    ],
+                    "label": "done1",
+                    "x": -93,
+                    "y": 76
+                },
+                {
+                    "prefabId": "3d402c83-0ef8-4993-bf56-3e076074ec9e",
+                    "id": "1537c118-608b-4412-a40a-d2e9d3dcd4fc",
+                    "unlock": [
+                        "x",
+                        "y",
+                        "sitFrame",
+                        "donePoint"
+                    ],
+                    "label": "seat1",
+                    "scope": "CLASS",
+                    "sitFrame": 22,
+                    "donePoint": "done1",
+                    "x": -131,
+                    "y": -10
+                },
+                {
+                    "prefabId": "3d402c83-0ef8-4993-bf56-3e076074ec9e",
+                    "id": "12026283-ec46-445a-a49e-57aa53e7f391",
+                    "unlock": [
+                        "x",
+                        "y",
+                        "sitFrame",
+                        "donePoint"
+                    ],
+                    "label": "seat2",
+                    "scope": "CLASS",
+                    "sitFrame": 18,
+                    "donePoint": "done2",
+                    "x": 17,
+                    "y": -73
+                }
+            ]
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 4
+    }
+}

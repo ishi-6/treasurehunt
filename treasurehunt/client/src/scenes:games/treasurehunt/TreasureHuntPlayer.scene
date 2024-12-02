@@ -1,0 +1,164 @@
+{
+    "id": "08473a89-590a-492b-bdde-e77f8de65ff8",
+    "sceneType": "PREFAB",
+    "settings": {
+        "compilerInsertSpaces": true,
+        "snapWidth": 77,
+        "snapHeight": 16.4296875,
+        "exportClass": true,
+        "preloadMethodName": "",
+        "preloadPackFiles": [],
+        "createMethodName": "",
+        "borderWidth": 1520,
+        "borderHeight": 960
+    },
+    "displayList": [
+        {
+            "type": "Container",
+            "id": "7eb8f349-890d-4641-a40c-a06ad2882136",
+            "label": "container_1",
+            "x": 760,
+            "y": 443,
+            "list": [
+                {
+                    "type": "Image",
+                    "id": "7806ae4e-c7fd-4161-91e2-86249006a5f4",
+                    "label": "spinner",
+                    "texture": {
+                        "key": "mancala",
+                        "frame": "player/spinner"
+                    },
+                    "y": 44,
+                    "scaleX": 0.9,
+                    "scaleY": 0.9
+                },
+                {
+                    "type": "Text",
+                    "id": "f99672c1-7b09-44fd-bcc1-89a818b470ef",
+                    "label": "waiting",
+                    "x": 39,
+                    "y": 28,
+                    "text": "Waiting for a Player",
+                    "fontFamily": "CCFaceFront",
+                    "fontSize": "22px",
+                    "fontStyle": "bold italic"
+                },
+                {
+                    "type": "Text",
+                    "id": "b6f4d88b-c398-4fe1-8aa6-6c61ae441820",
+                    "label": "username",
+                    "x": 39,
+                    "y": 11,
+                    "visible": false,
+                    "text": "USERNAME\n",
+                    "fixedWidth": 330,
+                    "fontFamily": "CCFaceFront",
+                    "fontSize": "32px",
+                    "fontStyle": "bold italic",
+                    "color": "#D5E1FF",
+                    "stroke": "#006699",
+                    "strokeThickness": 9
+                },
+                {
+                    "type": "Image",
+                    "id": "9a53c15d-a623-47c5-b6f4-da0f3666a0f5",
+                    "label": "spade_1",
+                    "texture": {
+                        "key": "treasurehunt",
+                        "frame": "spade0001"
+                    },
+                    "x": 258,
+                    "y": 11,
+                    "originX": 0,
+                    "originY": 0
+                },
+                {
+                    "type": "Image",
+                    "id": "969707d5-2d01-4931-b450-2f1151cba304",
+                    "label": "spade_2",
+                    "texture": {
+                        "key": "treasurehunt",
+                        "frame": "spade0001"
+                    },
+                    "x": 298,
+                    "y": 11,
+                    "originX": 0,
+                    "originY": 0
+                },
+                {
+                    "type": "Image",
+                    "id": "d410bf06-e325-40ea-af01-550d5ccbe1ca",
+                    "label": "spade_3",
+                    "texture": {
+                        "key": "treasurehunt",
+                        "frame": "spade0001"
+                    },
+                    "x": 338,
+                    "y": 11,
+                    "originX": 0,
+                    "originY": 0
+                },
+                {
+                    "type": "Image",
+                    "id": "9042ac5d-d6ea-4cd7-8a1a-2e3ebb11760e",
+                    "label": "spade_4",
+                    "texture": {
+                        "key": "treasurehunt",
+                        "frame": "spade0001"
+                    },
+                    "x": 378,
+                    "y": 11,
+                    "originX": 0,
+                    "originY": 0
+                },
+                {
+                    "type": "Image",
+                    "id": "4b878e36-02bc-4e67-9923-3ca38081f4cc",
+                    "label": "spade_5",
+                    "texture": {
+                        "key": "treasurehunt",
+                        "frame": "spade0001"
+                    },
+                    "x": 418,
+                    "y": 11,
+                    "originX": 0,
+                    "originY": 0
+                },
+                {
+                    "type": "Image",
+                    "id": "19a0c524-46b3-43da-9622-7e2c73c7f69c",
+                    "label": "spade_6",
+                    "texture": {
+                        "key": "treasurehunt",
+                        "frame": "spade0001"
+                    },
+                    "x": 458,
+                    "y": 11,
+                    "originX": 0,
+                    "originY": 0
+                }
+            ]
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 4
+    },
+    "lists": [
+        {
+            "id": "bf089356-d65a-4e21-82cb-b1382f68b86b",
+            "label": "spades",
+            "objectIds": [
+                "9a53c15d-a623-47c5-b6f4-da0f3666a0f5",
+                "969707d5-2d01-4931-b450-2f1151cba304",
+                "d410bf06-e325-40ea-af01-550d5ccbe1ca",
+                "9042ac5d-d6ea-4cd7-8a1a-2e3ebb11760e",
+                "4b878e36-02bc-4e67-9923-3ca38081f4cc",
+                "19a0c524-46b3-43da-9622-7e2c73c7f69c"
+            ]
+        }
+    ]
+}

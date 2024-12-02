@@ -1,0 +1,601 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/alert/alert.json",
+                "path": "assets/media/interface/game/alert",
+                "key": "alert"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/penguin/paperdoll_anims/animatedbgs.json",
+                "path": "assets/media/penguin/paperdoll_anims",
+                "key": "animatedbgs"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/penguin/paperdoll_anims/animatedbgs2.json",
+                "path": "assets/media/penguin/paperdoll_anims",
+                "key": "animatedbgs2"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/penguin/paperdoll_anims/animatedbgs3.json",
+                "path": "assets/media/penguin/paperdoll_anims",
+                "key": "animatedbgs3"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/main/announcements.json",
+                "path": "assets/media/interface/game/main",
+                "key": "announcements"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/penguin/buddy_base.json",
+                "path": "assets/media/penguin",
+                "key": "buddy_base"
+            },
+            {
+                "url": "assets/media/interface/game/main/buddy_bg.webp",
+                "type": "image",
+                "key": "buddy_bg"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/main/buddy_new.json",
+                "path": "assets/media/interface/game/main",
+                "key": "buddy_new"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/main/buddybuttons.json",
+                "path": "assets/media/interface/game/main",
+                "key": "buddybuttons"
+            },
+            {
+                "url": "assets/media/interface/game/main/buddyitem_outline.webp",
+                "type": "image",
+                "key": "buddyitem_outline"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/clothing/catalogs.json",
+                "path": "assets/media/interface/game/clothing",
+                "key": "catalogs"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/main/chatfail.json",
+                "path": "assets/media/interface/game/main",
+                "key": "chatfail"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/games/card/cj_screen.json",
+                "path": "assets/media/games/card",
+                "key": "cj_screen"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/games/card/cjcheater.json",
+                "path": "assets/media/games/card",
+                "key": "cjcheater"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/main/cjmapnote.json",
+                "path": "assets/media/interface/game/main",
+                "key": "cjmapnote"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/games/card/cjprompts.json",
+                "path": "assets/media/games/card",
+                "key": "cjprompts"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/clothing/clothingprefabs.json",
+                "path": "assets/media/interface/game/clothing",
+                "key": "clothingprefabs"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/main/coin.json",
+                "path": "assets/media/interface/game/main",
+                "key": "coin"
+            },
+            {
+                "url": "assets/media/interface/game/main/coin-anim.json",
+                "type": "animation",
+                "key": "coin-anim"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/iglooedit/contestbanner.json",
+                "path": "assets/media/interface/game/iglooedit",
+                "key": "contestbanner"
+            },
+            {
+                "url": "crumbs/en/crumbs.json",
+                "type": "json",
+                "key": "crumbs"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/newmap/dojonew.json",
+                "path": "assets/media/interface/game/newmap",
+                "key": "dojonew"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/newmap/dojonewdojo.json",
+                "path": "assets/media/interface/game/newmap",
+                "key": "dojonewdojo"
+            },
+            {
+                "url": [
+                    "assets/media/games/mancala/drop.mp3"
+                ],
+                "type": "audio",
+                "key": "drop"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/main/ecoBalls.json",
+                "path": "assets/media/interface/game/main",
+                "key": "ecoBalls"
+            },
+            {
+                "url": [
+                    "assets/media/sounds/fart.mp3"
+                ],
+                "type": "audio",
+                "key": "fart"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/games/four/four.json",
+                "path": "assets/media/games/four",
+                "key": "four"
+            },
+            {
+                "url": [
+                    "assets/media/sounds/friends.mp3"
+                ],
+                "type": "audio",
+                "key": "friends"
+            },
+            {
+                "url": [
+                    "assets/media/sounds/gateclose.mp3"
+                ],
+                "type": "audio",
+                "key": "gateclose"
+            },
+            {
+                "url": [
+                    "assets/media/sounds/gateopen.mp3"
+                ],
+                "type": "audio",
+                "key": "gateopen"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/gifts/gifts.json",
+                "path": "assets/media/interface/game/gifts",
+                "key": "gifts"
+            },
+            {
+                "url": "assets/media/interface/game/main/hallplayer-anim.json",
+                "type": "animation",
+                "key": "hallplayer-anim"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/main/ibl_badge.json",
+                "path": "assets/media/interface/game/main",
+                "key": "ibl_badge"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/newmap/icerink.json",
+                "path": "assets/media/interface/game/newmap",
+                "key": "icerink"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/iglooedit/igloobuilder.json",
+                "path": "assets/media/interface/game/iglooedit",
+                "key": "igloobuilder"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/main/igloocontest.json",
+                "path": "assets/media/interface/game/main",
+                "key": "igloocontest"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/iglooedit/iglooedit.json",
+                "path": "assets/media/interface/game/iglooedit",
+                "key": "iglooedit"
+            },
+            {
+                "url": "assets/media/interface/game/iglooedit/iglooedit-anims.json",
+                "type": "animation",
+                "key": "iglooedit-anims"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/iglooedit/iglooicons.json",
+                "path": "assets/media/interface/game/iglooedit",
+                "key": "iglooicons"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/iglooedit/igloolikes.json",
+                "path": "assets/media/interface/game/iglooedit",
+                "key": "igloolikes"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/main/leaderboard_overlay.json",
+                "path": "assets/media/interface/game/main",
+                "key": "leaderboard_overlay"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/main/leaderboardicons.json",
+                "path": "assets/media/interface/game/main",
+                "key": "leaderboardicons"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/menus/login/login.json",
+                "path": "assets/media/interface/menus/login",
+                "key": "login"
+            },
+            {
+                "url": [
+                    "assets/media/sounds/mail_alert.mp3"
+                ],
+                "type": "audio",
+                "key": "mail_alert"
+            },
+            {
+                "url": [
+                    "assets/media/sounds/mail_new.mp3"
+                ],
+                "type": "audio",
+                "key": "mail_new"
+            },
+            {
+                "url": [
+                    "assets/media/sounds/mail_penon.mp3"
+                ],
+                "type": "audio",
+                "key": "mail_penon"
+            },
+            {
+                "url": [
+                    "assets/media/sounds/mail_recycle.mp3"
+                ],
+                "type": "audio",
+                "key": "mail_recycle"
+            },
+            {
+                "url": [
+                    "assets/media/sounds/mail_remove.mp3"
+                ],
+                "type": "audio",
+                "key": "mail_remove"
+            },
+            {
+                "url": [
+                    "assets/media/sounds/mail_send.mp3"
+                ],
+                "type": "audio",
+                "key": "mail_send"
+            },
+            {
+                "url": [
+                    "assets/media/sounds/mail_trash.mp3"
+                ],
+                "type": "audio",
+                "key": "mail_trash"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/main/main.json",
+                "path": "assets/media/interface/game/main/",
+                "key": "main"
+            },
+            {
+                "url": "assets/media/interface/game/main/main-anims.json",
+                "type": "animation",
+                "key": "main-anims"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/main/main2.json",
+                "path": "assets/media/interface/game/main",
+                "key": "main2"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/menus/maintenance/maintenance.json",
+                "path": "assets/media/interface/menus/maintenance",
+                "key": "maintenance"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/games/mancala/mancala.json",
+                "path": "assets/media/games/mancala",
+                "key": "mancala"
+            },
+            {
+                "url": "assets/media/games/mancala/mancala-anims.json",
+                "type": "animation",
+                "key": "mancala-anims"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/newmap/map.json",
+                "path": "assets/media/interface/game/newmap",
+                "key": "map"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/main/new_inventory.json",
+                "path": "assets/media/interface/game/main",
+                "key": "new_inventory"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/newmap/newmap.json",
+                "path": "assets/media/interface/game/newmap",
+                "key": "newmap"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/newmap/newmapbg.json",
+                "path": "assets/media/interface/game/newmap",
+                "key": "newmapbg"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/newmap/newmtn.json",
+                "path": "assets/media/interface/game/newmap",
+                "key": "newmtn"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/ninjaprogress/ninjaprogress.json",
+                "path": "assets/media/interface/game/ninjaprogress",
+                "key": "ninjaprogress"
+            },
+            {
+                "url": "assets/media/interface/game/ninjaprogress/ninjaprogress-anims.json",
+                "type": "animation",
+                "key": "ninjaprogress-anims"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/oversprites/oversprites.json",
+                "path": "assets/media/interface/game/oversprites",
+                "key": "oversprites"
+            },
+            {
+                "url": "assets/media/penguin/paperdoll-anims.json",
+                "type": "animation",
+                "key": "paperdoll-anims"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/penguin/paperdoll_anims/paperdollanims.json",
+                "path": "assets/media/penguin/paperdoll_anims",
+                "key": "paperdollanims"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/postcards/sprites/pc236.json",
+                "path": "assets/media/postcards/sprites",
+                "key": "pc236"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/ninjaprogress/pcspopup.json",
+                "path": "assets/media/interface/game/ninjaprogress",
+                "key": "pcspopup"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/penguin/penguin.json",
+                "path": "assets/media/penguin/",
+                "key": "penguin"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/penguin/penguin_base.json",
+                "path": "assets/media/penguin/",
+                "key": "penguin_base"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/main/postcard_buttons.json",
+                "path": "assets/media/interface/game/main",
+                "key": "postcard_buttons"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/main/postdecomps.json",
+                "path": "assets/media/interface/game/main",
+                "key": "postdecomps"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/windows/prompt/prompt.json",
+                "path": "assets/media/interface/windows/prompt/",
+                "key": "prompt"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/main/pufflestoolbar.json",
+                "path": "assets/media/interface/game/main",
+                "key": "pufflestoolbar"
+            },
+            {
+                "url": [
+                    "assets/media/sounds/quest_done.mp3"
+                ],
+                "type": "audio",
+                "key": "quest_done"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/main/quests.json",
+                "path": "assets/media/interface/game/main",
+                "key": "quests"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/menus/servers/queue.json",
+                "path": "assets/media/interface/menus/servers",
+                "key": "queue"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/main/request.json",
+                "path": "assets/media/interface/game/main",
+                "key": "request"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/menus/start/screen.json",
+                "path": "assets/media/interface/menus/start",
+                "key": "screen"
+            },
+            {
+                "url": [
+                    "assets/media/sounds/secret.mp3"
+                ],
+                "type": "audio",
+                "key": "secret"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/menus/servers/servers.json",
+                "path": "assets/media/interface/menus/servers",
+                "key": "servers"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/ninjaprogress/spinbuttons.json",
+                "path": "assets/media/interface/game/ninjaprogress",
+                "key": "spinbuttons"
+            },
+            {
+                "url": [
+                    "assets/media/sounds/stamp.mp3"
+                ],
+                "type": "audio",
+                "key": "stamp"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/menus/start/start.json",
+                "path": "assets/media/interface/menus/start/",
+                "key": "start"
+            },
+            {
+                "url": [
+                    "assets/media/sounds/success.mp3"
+                ],
+                "type": "audio",
+                "key": "success"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/main/surveyicon.json",
+                "path": "assets/media/interface/game/main",
+                "key": "surveyicon"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/main/toolbar.json",
+                "path": "assets/media/interface/game/main",
+                "key": "toolbar"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/games/treasurehunt/treasurehunt.json",
+                "path": "assets/media/games/treasurehunt",
+                "key": "treasurehunt"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/main/unused.json",
+                "path": "assets/media/interface/game/main",
+                "key": "unused"
+            },
+            {
+                "url": [
+                    "assets/media/sounds/vuvuzela1.mp3"
+                ],
+                "type": "audio",
+                "key": "vuvuzela1"
+            },
+            {
+                "url": [
+                    "assets/media/sounds/vuvuzela2.mp3"
+                ],
+                "type": "audio",
+                "key": "vuvuzela2"
+            },
+            {
+                "url": [
+                    "assets/media/sounds/vuvuzela3.mp3"
+                ],
+                "type": "audio",
+                "key": "vuvuzela3"
+            },
+            {
+                "url": [
+                    "assets/media/sounds/vuvuzela4.mp3"
+                ],
+                "type": "audio",
+                "key": "vuvuzela4"
+            },
+            {
+                "url": [
+                    "assets/media/sounds/vuvuzela5.mp3"
+                ],
+                "type": "audio",
+                "key": "vuvuzela5"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/main/wayback_main.json",
+                "path": "assets/media/interface/game/main",
+                "key": "wayback_main"
+            },
+            {
+                "url": [
+                    "assets/media/sounds/Whistle.mp3"
+                ],
+                "type": "audio",
+                "key": "Whistle"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": true
+    }
+}
